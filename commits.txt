@@ -1,1 +1,12 @@
-aqui vamos a poner los commits de mi repositorio local
+15d55af Merge branch 'main' of https://github.com/KabanBot/remoto
+85586e6 Create commit.txt
+6b667bb Initial commit
+3f2812f Ya jala
+e365ab1 Modifique operation
+1377e36 Fusione exitosamente
+cbe1253 Modifique main jesus
+cdc12af Modifique el main
+ab80ec5 Nueva Rama ab
+7ed7f71 Agrege parametro
+c6d556b Segundo commit
+f7d2d7c Primer commit
